@@ -1,0 +1,6 @@
+framework module BLBLEConfigApi {
+  umbrella header "BLBLEConfigApi.h"
+
+  export *
+  module * { export * }
+}
