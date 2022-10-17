@@ -1,0 +1,22 @@
+{
+  "name": "BLEConfigApi",
+  "version": "0.1.0",
+  "summary": "A short description of BLEConfigApi.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/junjie.zhu/BLEConfigApi",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "junjie.zhu": "zjjllj@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/junjie.zhu/BLEConfigApi.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BLEConfigApi/Classes/**/*"
+}

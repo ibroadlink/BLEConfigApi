@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BLEConfigApi_Tests' do
+  pod 'BLEConfigApi', :path => '../'
+  
+  
+end
